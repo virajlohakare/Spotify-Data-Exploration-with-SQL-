@@ -3,6 +3,7 @@
 This repository contains SQL queries for analyzing data from a Spotify dataset. The project includes exploratory data analysis, data manipulation, and advanced query tasks such as window functions and Common Table Expressions (CTEs).
 
 ![SPOTIFY  IMG](https://github.com/user-attachments/assets/265d661f-432a-4d0c-8772-77e4e05667f4)
+[Spotify SQL Project.pdf](https://github.com/user-attachments/files/17364727/Spotify.SQL.Project.pdf)
 
 ```sql
 CREATE TABLE spotify (
@@ -198,6 +199,19 @@ WITH cte AS (
 SELECT album, (max_energy - min_energy) AS energy_difference
 FROM cte;
 ```
+
+
+## Author - VIRAJ LOHAKARE
+
+This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
+
+
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/
+viraj-lohakare-b15006321)
+
+
+
+Thank you for your interest in this project!
   
 
 
